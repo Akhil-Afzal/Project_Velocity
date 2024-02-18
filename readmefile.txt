@@ -1,0 +1,1 @@
+# velocity project is a static web application.
