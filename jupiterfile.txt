@@ -1,0 +1,3 @@
+jupiter application project is a added.
+this project is similar to velocity.
+
